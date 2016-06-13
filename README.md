@@ -1,1 +1,2 @@
-# Machine_Learning_Coursera
+# Machine Learning Coursera
+The link to [course](https://www.coursera.org/learn/machine-learning/home/welcome)
